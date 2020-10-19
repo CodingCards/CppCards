@@ -1,0 +1,5 @@
+type_inference_auto
+Lambda
+Lambda_2
+trailing_return_type
+type_inference_auto_decltype

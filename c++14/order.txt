@@ -1,0 +1,2 @@
+Generic_Lambda
+return_type_deduction
