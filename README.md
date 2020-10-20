@@ -21,7 +21,7 @@ The project structure:
     .
     ├── C++11
     │   ├── card_name-description.md            #Short description (exercise)
-    │   ├── card_name-solution.md               #The solution and a link to the cppreferenz page
+    │   ├── card_name-solution.md               #The solution and a link to cppreference.com
     │   ├── order.txt                           #File with the order of the cards... don't modify this file
     │   └── ...
     ├── C++14                   
