@@ -1,6 +1,7 @@
 # ranges 
 
-Generate an infinite list of integers starting at 1, square them, take the first 10, and sum them
+Create the following vector `std::vector<int> int{0,1,2,3,4,5};`
 
-(Example taken from [ericniebler](https://ericniebler.github.io/range-v3/))
+Use ranges (filter, transform...) to square the even numbers and print them out. 
 
+(Example taken from [cppreference](https://en.cppreference.com/w/cpp/ranges))
