@@ -1,4 +1,5 @@
 <h1 align="center">
+    <a href="https://codingcards.org"/>
     <img align="center" alt="Coding Cards" width="50%" src="https://codingcards.org/static/img/logo/Coding_Cards_Logo_and_Text.svg" />
 </h1>
 
