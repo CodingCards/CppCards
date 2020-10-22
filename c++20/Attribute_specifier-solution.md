@@ -2,7 +2,7 @@
 
 ```cpp
 int calcSquare(int number){
-    return (number * number)
+    return (number * number);
 }
 
 int f(int i)
