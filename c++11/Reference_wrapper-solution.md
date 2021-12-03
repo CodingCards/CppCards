@@ -1,6 +1,6 @@
 # Reference wrapper
 
-```
+```cpp
 #include <iostream>
 #include <vector>
 #include <numeric>
